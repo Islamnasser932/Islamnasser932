@@ -18,4 +18,4 @@ I build generative models and intelligent systems. Check out my latest project o
 ---
 
 ### 📈 Profile Views Counter
-![Views](https://komarev.com/ghpvc/?username=Islamnasser932&color=green&style=flat-square&label=PROFILE%20VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Islamnasser932&color=blue&style=flat-square&label=TOTAL%20PROFILE%20VIEWS)
